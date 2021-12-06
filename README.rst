@@ -1,6 +1,8 @@
 Magento Python API
 ==================
 
+THIS IS FORKED TO INCLUDE THE `suds-community` FIX.
+
 Python library to connect to Magento Webservices.
 
 Usage
